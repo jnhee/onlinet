@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(wc -c /c/Users/njinh/Desktop/onlinet/*.* /c/Users/njinh/Desktop/onlinet/OnlineT_files/*)"
-    ]
-  }
-}
